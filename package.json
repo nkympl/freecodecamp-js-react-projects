@@ -1,0 +1,15 @@
+{
+  "name": "freecodecamp-js-react-projects",
+  "version": "1.0.0",
+  "description": "Implementação dos projetos do https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/",
+  "main": "script.js",
+  "scripts": {
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
