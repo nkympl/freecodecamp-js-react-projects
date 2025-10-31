@@ -1,2 +1,2 @@
-# freecodecamp-js-react-projects
-Implementação dos projetos do https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/ 
+# intro-js-react-projects
+Implementação de projetos decorrentes da aplicação do meu aprendizado front-end.
